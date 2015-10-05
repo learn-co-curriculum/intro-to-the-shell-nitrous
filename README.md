@@ -2,7 +2,7 @@
 
 The Shell is the program on your computer that takes in commands you type and takes action based on those commands. It is foundational for any programmer—among other things, it's how you'll tell the computer what to do with the code you write. 
 
-You may sometimes hear the shellreferred to as your "command line" or "terminal" or "console". There are some subtle differences between each of those terms, but by and large you can think of these as referring to ways of interacting with the Shell. 
+You may sometimes hear the shell referred to as your "command line" or "terminal" or "console". There are some subtle differences between each of those terms, but by and large you can think of these as referring to ways of interacting with the Shell. 
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/uxANgIcjmQg?rel=0&amp;showinfo=0&html5=1" frameborder="0" allowfullscreen></iframe>
 
