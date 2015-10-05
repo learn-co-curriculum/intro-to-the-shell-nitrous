@@ -10,4 +10,4 @@ You may sometimes hear the shellreferred to as your "command line" or "terminal"
 
 ## Summary
 
-On Nitrous, or any development environment you happen to be using, Learning to use your console is crucial to being a programmer. It is your workbench, get to love it.
+On Nitrous, or any development environment you happen to be using, learning to use your console is crucial to being a programmer. It is your workbench, get to love it.
