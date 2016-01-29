@@ -12,4 +12,4 @@ You may sometimes hear the shell referred to as your "command line" or "terminal
 
 On Nitrous, or any development environment you happen to be using, learning to use your console is crucial to being a programmer. It is your workbench, get to love it.
 
-<a href='https://learn.co/lessons/intro-to-the-shell-nitrous' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/intro-to-the-shell-nitrous' title='Intro to the Shell'>Intro to the Shell</a> on Learn.co and start learning to code for free.</p>
